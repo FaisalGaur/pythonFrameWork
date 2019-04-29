@@ -1,0 +1,8 @@
+py
+pytest
+selenium
+pytest-xdist
+pytest-rerunfailures
+nose
+pytest-html
+html-testRunner
