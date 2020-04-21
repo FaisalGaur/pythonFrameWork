@@ -1,6 +1,6 @@
-Author: faisal.gaur@deskera.org
+Author: Faisal
 
-Welcome to desk.sg automation suite. To run the automation tests follow below steps:
+Welcome to test automation suite. To run the automation tests follow below steps:
 
 
 Copy paste the contents of this folder to your pc in a new folder (preferably any drive other than C:)
