@@ -1,0 +1,21 @@
+#Config properties to set chrome Driver Path & other variable values
+
+[BASE]
+BROWSER = CHROME
+URL = https://desk.sg/
+MASTER_EMAIL = johndoe
+MASTER_DOMAIN = gmail.com
+
+[CUSTOMER]
+EMAIL = johndoe+20200418084827@gmail.com
+PASSWORD = summer
+FIRST_NAME = john
+LAST_NAME = doe
+PHONE = 1234567890
+
+[SELLER]
+EMAIL = janedoe@gmail.com
+PASSWORD = summer
+FIRST_NAME = jane
+LAST_NAME = doe
+PHONE = 1234567890
